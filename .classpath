@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="after"/>
+	<classpathentry kind="src" path="AnsSmellClass"/>
+	<classpathentry kind="src" path="AnsSmellEnum"/>
+	<classpathentry kind="src" path="before"/>
+	<classpathentry kind="src" path="enum"/>
+	<classpathentry kind="src" path="ExSmell"/>
+	<classpathentry kind="src" path="step1"/>
+	<classpathentry kind="src" path="step2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
